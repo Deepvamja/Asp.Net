@@ -4,30 +4,21 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace LAB_3
+namespace lab_4
 {
-    internal interface Shape
+    internal class Shape
     {
-        double Circle(double radius);
-        double Triangle(double baseLength, double height);
-        double Square(double side);
-    }
-
-    public class ShapeCalculator : Shape
-    {
-        public double Circle(double radius)
+        public int area(int x)
         {
-            return Math.PI * radius * radius;
+            return (x * x);
         }
-
-        public double Triangle(double baseLength, double height)
+        public int area(int x,int y)
         {
-            return 0.5 * baseLength * height;
+            return (x * y);
         }
-
-        public double Square(double side)
+        public double area(double a)
         {
-            return side * side;
+            return Math.PI *a *a;
         }
     }
 }
