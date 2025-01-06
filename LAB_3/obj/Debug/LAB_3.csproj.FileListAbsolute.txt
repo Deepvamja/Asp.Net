@@ -1,0 +1,7 @@
+C:\College\Code\Sem_4\.NET\LAB_3\bin\Debug\LAB_3.exe.config
+C:\College\Code\Sem_4\.NET\LAB_3\bin\Debug\LAB_3.exe
+C:\College\Code\Sem_4\.NET\LAB_3\bin\Debug\LAB_3.pdb
+C:\College\Code\Sem_4\.NET\LAB_3\obj\Debug\LAB_3.csproj.AssemblyReference.cache
+C:\College\Code\Sem_4\.NET\LAB_3\obj\Debug\LAB_3.csproj.CoreCompileInputs.cache
+C:\College\Code\Sem_4\.NET\LAB_3\obj\Debug\LAB_3.exe
+C:\College\Code\Sem_4\.NET\LAB_3\obj\Debug\LAB_3.pdb
