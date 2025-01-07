@@ -1,0 +1,7 @@
+C:\Users\deepv\OneDrive\Desktop\.net\lab_4\bin\Debug\lab_4.exe.config
+C:\Users\deepv\OneDrive\Desktop\.net\lab_4\bin\Debug\lab_4.exe
+C:\Users\deepv\OneDrive\Desktop\.net\lab_4\bin\Debug\lab_4.pdb
+C:\Users\deepv\OneDrive\Desktop\.net\lab_4\obj\Debug\lab_4.csproj.AssemblyReference.cache
+C:\Users\deepv\OneDrive\Desktop\.net\lab_4\obj\Debug\lab_4.csproj.CoreCompileInputs.cache
+C:\Users\deepv\OneDrive\Desktop\.net\lab_4\obj\Debug\lab_4.exe
+C:\Users\deepv\OneDrive\Desktop\.net\lab_4\obj\Debug\lab_4.pdb
