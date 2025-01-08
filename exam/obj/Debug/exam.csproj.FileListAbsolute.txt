@@ -1,0 +1,2 @@
+C:\Users\deepv\OneDrive\Desktop\.net\exam\obj\Debug\exam.csproj.AssemblyReference.cache
+C:\Users\deepv\OneDrive\Desktop\.net\exam\obj\Debug\exam.csproj.CoreCompileInputs.cache
