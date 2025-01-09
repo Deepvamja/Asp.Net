@@ -1,0 +1,7 @@
+C:\Users\deepv\OneDrive\Desktop\.net\LAB_5\bin\Debug\LAB_5.exe.config
+C:\Users\deepv\OneDrive\Desktop\.net\LAB_5\bin\Debug\LAB_5.exe
+C:\Users\deepv\OneDrive\Desktop\.net\LAB_5\bin\Debug\LAB_5.pdb
+C:\Users\deepv\OneDrive\Desktop\.net\LAB_5\obj\Debug\LAB_5.csproj.AssemblyReference.cache
+C:\Users\deepv\OneDrive\Desktop\.net\LAB_5\obj\Debug\LAB_5.csproj.CoreCompileInputs.cache
+C:\Users\deepv\OneDrive\Desktop\.net\LAB_5\obj\Debug\LAB_5.exe
+C:\Users\deepv\OneDrive\Desktop\.net\LAB_5\obj\Debug\LAB_5.pdb
