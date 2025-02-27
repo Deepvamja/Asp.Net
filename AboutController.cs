@@ -1,10 +1,10 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 
-namespace WebApplication2.Controllers
+namespace estateagency.Controllers
 {
     public class AboutController : Controller
     {
-        public IActionResult Index()
+        public IActionResult About()
         {
             return View();
         }
