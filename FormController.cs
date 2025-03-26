@@ -1,12 +1,29 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 
-namespace AddressBook.Controllers
+namespace projectquiz.Controllers
 {
     public class FormController : Controller
     {
-        public IActionResult Form()
+       
+        public IActionResult Element()
         {
             return View();
         }
+
+        public IActionResult Layout()
+        {
+            return View();
+        }
+
+        public IActionResult Editors()
+        {
+            return View();
+        }
+
+        public IActionResult Validations()
+        {
+            return View();
+        }
+
     }
 }
