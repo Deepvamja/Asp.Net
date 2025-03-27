@@ -1,8 +1,8 @@
 using System.Diagnostics;
-using demo.Models;
 using Microsoft.AspNetCore.Mvc;
+using projectquiz.Models;
 
-namespace demo.Controllers
+namespace projectquiz.Controllers
 {
     public class HomeController : Controller
     {
